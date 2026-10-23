@@ -1,6 +1,5 @@
 # DirCheck
-Travers directory structure using recursive DFS and generates XML as an output.
-sh1.h,sh1.c is third party.
+A school project that traverses a directory structure using recursive depth-first search (DFS) and generates an XML file as output.
 # Syntax
 dircheck [options] [path / file]
 # Options
